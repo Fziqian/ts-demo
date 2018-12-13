@@ -23,10 +23,10 @@ gulp.task('bundle', function () {
         .pipe(uglify())
         .pipe(sourcemaps.write('./'))
         .pipe(gulp.dest('dist'));
-})
-gulp.task('default', gulp.series('bundle',function(){
-    
-}))
+});
+gulp.task('default', gulp.series('bundle', function () {
+
+}));
 gulp.task('watch', function () {
     gulp.watch('./src/**/*.ts', gulp.series('default'));
-})
+});
