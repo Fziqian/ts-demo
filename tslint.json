@@ -10,9 +10,12 @@
             "single"
         ],
         "semi": [
-            1,
+            0,
             "always"
-        ]
+        ],
+        "no-console":false,
+        "one-variable-per-declaration":false,
+        "prefer-const":false
     },
     "rulesDirectory": []
 }

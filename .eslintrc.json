@@ -14,7 +14,7 @@
             "SwitchCase": 2
         }],
         "linebreak-style": [
-            "error",
+            0,
             "windows"
         ],
         "quotes": [
