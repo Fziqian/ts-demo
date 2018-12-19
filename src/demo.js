@@ -1,3 +1,11 @@
+/*
+ * @Author: Fziqian 
+ * @Date: 2018-12-19 09:41:58 
+ * @Last Modified by: Fziqian
+ * @Last Modified time: 2018-12-19 09:44:25
+ * @功能: 这是一个文件头demo 
+ */
+
 for (var i = 0; i < 3; i++) {
     i++;
     console.log('测试添加分支');
