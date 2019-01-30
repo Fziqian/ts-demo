@@ -23,6 +23,7 @@ npm run build
 >more info see in [webpack.config.js](./webpack.config.js "点击查看更多webpack配置信息")
 ## jsdoc
 ---
+see this jsdoc build by this [demo](https://fziqian.github.io/ts-demo/)
 ```
 npm i -g jsdoc
 npm run jsdoc
