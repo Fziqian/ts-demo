@@ -1,5 +1,11 @@
 {
-    "defaultSeverity": "error",
+    "defaultSeverity": "warn",
+    "include":[
+        "./src/*/*"
+    ],
+    "exclude":[
+        "node_modules"
+    ],
     "extends": [
         "tslint:recommended"
     ],

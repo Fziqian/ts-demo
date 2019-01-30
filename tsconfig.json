@@ -2,11 +2,14 @@
     "include": [
         "./src/**/*"
     ],
+    "exclude":[
+        "./node_modules/",
+    ],
     "compilerOptions": {
         "target": "es5",
         "lib": [
-            "es6",
-            "dom"
+            "dom",
+            "es6"
         ],
         "downlevelIteration": true,
         "sourceMap": true,
