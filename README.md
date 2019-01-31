@@ -35,12 +35,11 @@ npm run jsdoc
 * refactor：重构（即不是新增功能，也不是修改bug的代码变动）  
 * test：增加测试  
 * chore：构建过程或辅助工具的变动  
-或者使用 `git-emoji`
 >more see [相关博客](https://www.cnblogs.com/daysme/p/7722474.html "git 提交的正确姿势") 
----
-或者使用`git-emoji`  
+
+## 或者使用 `git-emoji`  
 |emoji|emoji 代码|commit 说明|
-|---- |---------|---------|
+|----|---------|---------|
 |:tada:(庆祝)|`:tada:`|首次提交|
 |:sparkles:(火花)|`:sparkles:`|引入新功能|
 |:bug:(bug)|`:bug:`|修复bug|
