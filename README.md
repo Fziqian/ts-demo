@@ -18,7 +18,7 @@ then try the following command
 npm run dev 
 npm run build
 ```
->more info see in [webpack.config.js](./webpack.config.js "点击查看更多webpack配置信息")
+>more info see in [webpack.dev.js](./webpack.dev.js "点击查看更多webpack配置信息") [webpack.prod.js](./webpack.prod.js "点击查看更多webpack配置信息")  
 ## jsdoc
 see this jsdoc build by this [demo](https://fziqian.github.io/ts-demo/)
 ```
